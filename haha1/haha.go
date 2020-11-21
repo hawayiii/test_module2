@@ -1,4 +1,4 @@
-package haha
+package haha1
 
 import "fmt"
 
